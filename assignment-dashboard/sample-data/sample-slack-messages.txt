@@ -1,0 +1,7 @@
+Need a Storage Scale deployment SME for ABC Corp starting July 1st. 6-week engagement.
+Looking for an AWS architect to support Globex migration — presales, we need someone with Terraform and Linux experience.
+Internal request: need a DevOps engineer to improve our CI/CD pipeline before Q3. Kubernetes preferred.
+Acme Ltd wants us to build their K8s platform. High priority paid engagement, starts August.
+Support ticket for Initech — security posture review, IAM and compliance focus.
+Does anyone have availability for a Python automation project? Customer is Northstar Systems, starts next month.
+Urgently need a Storage Scale and GPFS expert for on-site deployment at MegaCorp. Two weeks starting Monday.
